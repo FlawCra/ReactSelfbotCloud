@@ -1,0 +1,9 @@
+{
+    "footer_timestamp": false,
+    "selfbot_title": "Raspberry Pi",
+    "global_emoji": ":green_heart:",
+    "embed_color": "#C31C4A",
+    "embed_thumbnail_url": "https://www.raspberrypi.org/homepage-9df4b/favicon.png",
+    "embed_footer_url": "https://www.raspberrypi.org/homepage-9df4b/favicon.png",
+    "embed_footer": "Raspberry Pi"
+}
