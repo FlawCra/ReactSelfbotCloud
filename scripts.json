@@ -1,18 +1,18 @@
 {
    "scripts":[
-      "scripts\/ReactSays.py",
-      "scripts\/TicketAutoReply.py",
-      "scripts\/ascii2.py",
-      "scripts\/banroulette.py",
-      "scripts\/bye.py",
-      "scripts\/counting.py",
-      "scripts\/dankmemereventjoiner.py",
-      "scripts\/fortnite.py",
-      "scripts\/gmailbomber.py",
-      "scripts\/hwid.py",
-      "scripts\/makestatuscycle.py",
-      "scripts\/redirect.py",
-      "scripts\/tits.py"
+      "scripts/ReactSays.py",
+      "scripts/TicketAutoReply.py",
+      "scripts/ascii2.py",
+      "scripts/banroulette.py",
+      "scripts/bye.py",
+      "scripts/counting.py",
+      "scripts/dankmemereventjoiner.py",
+      "scripts/fortnite.py",
+      "scripts/gmailbomber.py",
+      "scripts/hwid.py",
+      "scripts/makestatuscycle.py",
+      "scripts/redirect.py",
+      "scripts/tits.py"
    ],
-   "base_url":"https:\/\/raw.githubusercontent.com\/FlawCra\/ReactSelfbotCloud\/master\/"
+   "base_url":"https://react.flawcra.cc/"
 }
