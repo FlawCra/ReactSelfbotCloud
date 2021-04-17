@@ -1,0 +1,13 @@
+{
+  "version": "1.3.8",
+  "discord": "https://reactselfbot.pro/dashboard",
+  "website": "https://reactselfbot.pro/",
+  "docs": "https://docs.reactselfbot.pro/",
+  "motd": "Message of the day? more like Message of the year",
+  "users": 438,
+  "logins": 22930,
+  "bans": 26,
+  "user_logins": null,
+  "last_hwid_reset": null,
+  "user_id": null
+}
